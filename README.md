@@ -13,7 +13,8 @@ Unreal Engine 5, 3D, Puzzle, Crypt.
 The main objective of this project was to apply available tools in Unreal Engine 5 through the collaboration of C++ programming with blueprints.
 
 ### Pick Up Mechanic
-
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip1MetalCommander-.gif)
 ### Scenery Puzzle
-
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip1MetalCommander-.gif)
 ### Visual Aspect
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip1MetalCommander-.gif)
